@@ -1,0 +1,23 @@
+{
+  "name": "node-blog-site",
+  "version": "1.0.0",
+  "description": "This repo covers my first time exploring the back end, through Net Ninja's Node.js crash course (from 2020).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sulaiman451/Node.js-Crash-Course.git"
+  },
+  "author": "Sulaiman Rahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sulaiman451/Node.js-Crash-Course/issues"
+  },
+  "homepage": "https://github.com/Sulaiman451/Node.js-Crash-Course#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
